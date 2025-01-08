@@ -1,0 +1,10 @@
+{
+	"name": "IR-For-NE-Systems",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Integration Runtime used to establish connectivity with NE IT Systems",
+		"typeProperties": {
+			"selfContainedInteractiveAuthoringEnabled": true
+		}
+	}
+}

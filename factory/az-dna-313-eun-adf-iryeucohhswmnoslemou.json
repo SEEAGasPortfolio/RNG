@@ -1,0 +1,9 @@
+{
+	"name": "az-dna-313-eun-adf-iryeucohhswmnoslemou",
+	"location": "North Europe",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1ad45a9f-6ec8-446d-ac9b-809974d5d0f8",
+		"tenantId": "db1e96a8-a3da-442a-930b-235cac24cd5c"
+	}
+}

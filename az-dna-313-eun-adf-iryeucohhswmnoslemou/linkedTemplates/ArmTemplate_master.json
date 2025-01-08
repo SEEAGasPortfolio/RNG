@@ -7,9 +7,9 @@
 			"metadata": "Data Factory name",
 			"defaultValue": "az-dna-313-eun-adf-iryeucohhswmnoslemou"
 		},
-		"Key_Vault_LnkdSrvc_01_properties_typeProperties_baseUrl": {
+		"LS_Sink_EDP_ADLS_GEN2_properties_typeProperties_url": {
 			"type": "string",
-			"defaultValue": "https://az-dna-313-eun-kv-trmusc.vault.azure.net/"
+			"defaultValue": "https://azdna312eunadlslifmnoiou.dfs.core.windows.net/"
 		},
 		"containerUri": {
 			"type": "string",
@@ -38,8 +38,8 @@
 					"factoryName": {
 						"value": "[parameters('factoryName')]"
 					},
-					"Key_Vault_LnkdSrvc_01_properties_typeProperties_baseUrl": {
-						"value": "[parameters('Key_Vault_LnkdSrvc_01_properties_typeProperties_baseUrl')]"
+					"LS_Sink_EDP_ADLS_GEN2_properties_typeProperties_url": {
+						"value": "[parameters('LS_Sink_EDP_ADLS_GEN2_properties_typeProperties_url')]"
 					}
 				}
 			},

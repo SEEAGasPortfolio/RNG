@@ -5,8 +5,8 @@
 		"factoryName": {
 			"value": "az-dna-313-eun-adf-iryeucohhswmnoslemou"
 		},
-		"Key_Vault_LnkdSrvc_01_properties_typeProperties_baseUrl": {
-			"value": "https://az-dna-313-eun-kv-trmusc.vault.azure.net/"
+		"LS_Sink_EDP_ADLS_GEN2_properties_typeProperties_url": {
+			"value": "https://azdna312eunadlslifmnoiou.dfs.core.windows.net/"
 		}
 	}
 }

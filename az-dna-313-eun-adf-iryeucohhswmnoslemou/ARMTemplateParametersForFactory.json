@@ -1,0 +1,12 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "az-dna-313-eun-adf-iryeucohhswmnoslemou"
+		},
+		"Key_Vault_LnkdSrvc_01_properties_typeProperties_baseUrl": {
+			"value": "https://az-dna-313-eun-kv-trmusc.vault.azure.net/"
+		}
+	}
+}

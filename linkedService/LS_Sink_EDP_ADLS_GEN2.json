@@ -1,0 +1,10 @@
+{
+	"name": "LS_Sink_EDP_ADLS_GEN2",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://azdna312eunadlslifmnoiou.dfs.core.windows.net/"
+		}
+	}
+}
